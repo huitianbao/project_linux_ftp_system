@@ -1,0 +1,9 @@
+cd workspace/bigwork/ftp-master/server
+
+./ftserve 5000
+
+cd workspace/bigwork/ftp-master/client
+./ftclient 192.168.132.128 5000
+
+
+anonymous

@@ -1,0 +1,9 @@
+drwxrwxr-x 2 wangxingxing wangxingxing  4096 12月  8 21:07 ff
+-rwxrwxr-x 1 wangxingxing wangxingxing 46872 12月  8 21:04 ftserve
+-rwxrw-rw- 1 wangxingxing wangxingxing 10148 12月  8 21:03 ftserve.c
+-rwxrw-rw- 1 wangxingxing wangxingxing  8556 10月  7 23:21 ftserve.c~
+-rwxrw-rw- 1 wangxingxing wangxingxing  2287 12月  8 20:17 ftserve.h
+drwxrwxr-x 2 wangxingxing wangxingxing  4096 12月  8 21:05 ll
+-rwxrw-rw- 1 wangxingxing wangxingxing   311 12月  7 17:52 makefile
+-rwxrw-rw- 1 wangxingxing wangxingxing   394 10月  7 23:36 makefile~
+-rw-rw-r-- 1 wangxingxing wangxingxing     0 12月  8 21:07 tmp.txt

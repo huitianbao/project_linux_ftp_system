@@ -1,0 +1,7 @@
+-rwxrwxr-x 1 wangxingxing wangxingxing 46400 12月  8 20:20 ftserve
+-rwxrw-rw- 1 wangxingxing wangxingxing  9853 12月  8 20:20 ftserve.c
+-rwxrw-rw- 1 wangxingxing wangxingxing  8556 10月  7 23:21 ftserve.c~
+-rwxrw-rw- 1 wangxingxing wangxingxing  2287 12月  8 20:17 ftserve.h
+-rwxrw-rw- 1 wangxingxing wangxingxing   311 12月  7 17:52 makefile
+-rwxrw-rw- 1 wangxingxing wangxingxing   394 10月  7 23:36 makefile~
+-rw-rw-r-- 1 wangxingxing wangxingxing     0 12月  8 20:23 tmp.txt
